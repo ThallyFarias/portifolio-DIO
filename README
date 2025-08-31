@@ -1,0 +1,26 @@
+🚀 Portfólio Dinâmico com JSON | Projeto da Imersão Dev
+Seja bem-vindo(a) ao meu projeto de portfólio profissional! Este repositório é fruto de uma jornada intensa de aprendizado durante a imersão Dev, onde mergulhamos em conceitos fundamentais de desenvolvimento web, Git, versionamento e estruturação de dados com JSON. Aqui, você encontrará uma aplicação dinâmica, personalizada e pensada para destacar minhas habilidades e projetos de forma moderna e interativa.
+
+✨ Sobre o Projeto
+Este projeto é uma aplicação web que utiliza uma estrutura JSON personalizada para alimentar dinamicamente os conteúdos da página de portfólio. A ideia é permitir que qualquer desenvolvedor possa facilmente atualizar seus dados sem mexer diretamente no HTML — basta editar o JSON!
+
+Além disso, o layout foi pensado para ser responsivo, acessível e com um toque de criatividade que reflete minha identidade como desenvolvedora.
+
+🧠 Conceitos Aplicados
+Durante a construção deste projeto, foram explorados e aplicados os seguintes conceitos:
+
+HTML5 e CSS3: Estrutura semântica e estilização moderna
+
+JavaScript: Manipulação dinâmica de dados e DOM
+
+JSON: Organização e estruturação dos dados do portfólio
+
+Git e GitHub: Versionamento, colaboração e publicação do projeto
+
+Responsividade: Layout adaptável para diferentes dispositivos
+
+Acessibilidade: Boas práticas para tornar o site inclusivo
+
+📸 Preview
+
+![Preview Landing Page](preview.png)
