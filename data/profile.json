@@ -1,0 +1,75 @@
+{
+  "name": "Thally Farias",
+  "job": "Desenvolvedor Front-end e automações de ia",
+  "location": "Pernambuco - PE",
+  "email": "thallytaprofissional@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      },
+      {
+        "name": "React.js",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      },
+      {
+        "name": "Node.js",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+      },
+      {
+        "name": "Python",
+        "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+      }
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Comunicação clara",
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português (nativo)",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Jogo da memória - feito com javascript",
+      "url": "https://github.com/ThallyFarias/jogo-da-memoria.git",
+      "github": true
+    },
+    {
+      "name": "website responsivo",
+      "url": "https://github.com/ThallyFarias/Responsive-space-Web-site.git",
+      "github": true
+    },
+    {
+      "name": "Portifolio profissional",
+      "url": "https://github.com/ThallyFarias/Portifolio-Thally-Farias.git",
+      "github": true
+    },
+    {
+      "name": "Cards",
+      "url": "https://github.com/ThallyFarias/responsive-card-slider.git",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário - Bravil Sistemas",
+      "period": "julh de 2021 - ago de 2021",
+      "description": "Responsavel por achar e solucionar bugs do plicativo de estoque financeiro em java com o android studio"
+    },
+    {
+      "name": "Desenvolvedor Full Stack Freelancer",
+      "period": "2023 - até o momento",
+      "description": "Criação de aplicações web e mobile com foco em usabilidade e performance. Utilização de tecnologias modernas como React.js, Node.js, TypeScript e ferramentas de prototipação como Figma, com entregas voltadas para resultados e escalabilidade."
+    }
+  ]
+}
